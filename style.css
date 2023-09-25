@@ -1,0 +1,24 @@
+.header{
+    text-align: center;
+color: rgb(255, 0, 0);
+    background-color:rgb(255, 136, 0);
+    padding: 10px;
+}
+p{
+background-image:url("https://gumlet.assettype.com/afkgaming%2F2023-08%2F922d52bc-9d81-46ad-96b5-c2f6d196170e%2FCover_Image___Valorant_Patch_7_04___New_Map_Sunset__Agent_Nerfs__Breeze_Returns__Premier_Launch.jpg?compress=true&dpr=1&w=1200") ;
+
+}
+.agentlist{
+    height: 900px;
+    background-image: url("https://cdn.realsport101.com/images/ncavvykf/realsport-production/107181c1e37fee069c22ec4890f3e4e90fcc5fed-1140x579.png?w=800&h=406&auto=format");
+    background-size: cover;
+}
+.VCTChampions{
+    height: 1010px;
+    background-image: url("https://logowik.com/content/uploads/images/eg-evil-geniuses2488.jpg");
+    background-size: cover;
+}
+.ValNews{
+height: 1000;
+background-size: cove==;
+}
